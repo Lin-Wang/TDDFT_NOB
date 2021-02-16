@@ -1,3 +1,6 @@
 This is the subroutine used to realized the Natural Orbital Branching (NOB) techniques during TDDFT simulations. 
 However, itt only describes the algorithm for NOB, thus might needs the other parts to make the whole code working. 
 One can try to implement this part in an existing TDDFT code. 
+For technical details, please refer to: 
+L.W. Wang, "A natural orbital branching scheme for time dependent density funcitonal theory nonadiabatic simulations",
+J. Phys. Chem. A 124, 43 (2020).
