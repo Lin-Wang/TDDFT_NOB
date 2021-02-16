@@ -1,0 +1,3 @@
+This is the subroutine used to realized the Natural Orbital Branching (NOB) techniques during TDDFT simulations. 
+However, itt only describes the algorithm for NOB, thus might needs the other parts to make the whole code working. 
+One can try to implement this part in an existing TDDFT code. 
